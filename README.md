@@ -4,7 +4,7 @@
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
 
-According to Github's blog (2024), software version control is similar to the tools used by musicians to play sounds; without these tools, they would be redundant, and so would version control for software developers; the major reason why Git is popular is that it fosters collaboration as well as the ability to host projects online that ensures developers have complete visibility of their code history and a single source of documentation for all they have worked on.
+According to Github's blog (2022), software version control is similar to the tools used by musicians to play sounds; without these tools, they would be redundant, and so would version control for software developers; the major reason why Git is popular is that it fosters collaboration as well as the ability to host projects online that ensures developers have complete visibility of their code history and a single source of documentation for all they have worked on.
 
 The fundamental concepts of version control include, 
 
@@ -146,6 +146,8 @@ Fernandez, A. (2022). The difference between forking and cloning a repository on
 Foundational Blog. (n.d.). What are pull requests?. Foundational.io. https://www.foundational.io/glossary/pull-request
 
 Geeks for Geeks. (2024). Issues in GitHub. Geeks for Geeks. https://www.geeksforgeeks.org/issues-in-github/
+
+Github (2022), What is Version Control? https://github.com/resources/articles/software-development/what-is-version-control
 
 GitHub Docs. (n.d.). QuickStart for repositories. GitHub. https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
 
